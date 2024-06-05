@@ -100,4 +100,4 @@ Insert gif or link to demo
 
 
 ## Photos
-![Alt text of the image](https://github.com/username/repository/blob/master/img/octocat.png)
+![Alt text of the image](https://github.com/AmanVerma2202/RJ-Snacks/blob/main/Screenshot%20(48).png)
