@@ -2,7 +2,8 @@
 
 Nagercoil chips web application utilizing the MERN stack, resulting in a seamless
 user experience and a 50% boost in online product sales.
-
+Frontend- https://rjfrontend.onrender.com/
+Backend- https://rjbackend-8.onrender.com/
 
 ## Acknowledgements
 
